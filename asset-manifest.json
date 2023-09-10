@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/courtneys_crafts/static/css/main.33e424c0.css",
+    "main.js": "/courtneys_crafts/static/js/main.6cd20c1a.js",
+    "static/js/787.ea1daafe.chunk.js": "/courtneys_crafts/static/js/787.ea1daafe.chunk.js",
+    "static/media/paper1.jpg": "/courtneys_crafts/static/media/paper1.e9fd0e021496d565dc47.jpg",
+    "static/media/crochet3.jpg": "/courtneys_crafts/static/media/crochet3.40b4097086e5ca7d91a9.jpg",
+    "static/media/courtney1.jpg": "/courtneys_crafts/static/media/courtney1.ceaf8a730e4ab62a7407.jpg",
+    "static/media/candle1.jpg": "/courtneys_crafts/static/media/candle1.73a264f477072754f0b4.jpg",
+    "index.html": "/courtneys_crafts/index.html",
+    "main.33e424c0.css.map": "/courtneys_crafts/static/css/main.33e424c0.css.map",
+    "main.6cd20c1a.js.map": "/courtneys_crafts/static/js/main.6cd20c1a.js.map",
+    "787.ea1daafe.chunk.js.map": "/courtneys_crafts/static/js/787.ea1daafe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33e424c0.css",
+    "static/js/main.6cd20c1a.js"
+  ]
+}
